@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Game A",
+    "image": "https://imgs.search.brave.com/EHPyv7wCrptCOjWv7ziLX11RHKCiYRZoE5cmRGBko1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDg1OTI1/MTIuanBn",
+    "type": "video games",
+    "variations": ["Digital", "New", "Pre-Owned"],
+    "details": "Description of Game A."
+  },
+  {
+    "id": "2",
+    "name": "Shirt B",
+    "image": "https://imgs.search.brave.com/p7g6Gi3Xi45UO28UFlMWVd8Lqo-WpHAxmVJq3BAP5SM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS41MjUw/MDkzODU0Ljg2Mjgv/c3NyY28sc2xpbV9m/aXRfdF9zaGlydCxt/ZW5zLDEwMTAxMDow/MWM1Y2EyN2M2LGZy/b250LHNxdWFyZV9w/cm9kdWN0LDYwMHg2/MDAuanBn",
+    "type": "clothing",
+    "variations": ["Small", "Medium", "Large"],
+    "details": "Description of Shirt B."
+  },
+  {
+    "id": "3",
+    "name": "Console C",
+    "image": "https://imgs.search.brave.com/pFwYaW59rFnbFwfzXeaWodHJvHydP_Q5om6pjOjSznU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80NS8xMi9j/b25zb2xlLWdhbWUt/ZWxlbWVudC12YXJp/ZXR5LXBsYXktbmV4/dC1nZW4tdmVjdG9y/LTM3ODc0NTEyLmpw/Zw",
+    "type": "console",
+    "variations": ["New", "Pre-Owned", "Refurbished"],
+    "details": "Description of Console C."
+  }
+]
